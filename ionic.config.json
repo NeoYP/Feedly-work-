@@ -1,0 +1,7 @@
+{
+  "name": "feedly",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
